@@ -1,2 +1,2 @@
-# movie-project
-movie-project
+Code Run:npm i & npm run dev
+
